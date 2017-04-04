@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;06-JPA-JPQL-Apostila&apos; to &apos;07-JPA-JPQL-Apostila&apos;" description="Rename resource &apos;06-JPA-JPQL-Apostila&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/06-JPA-JPQL-Apostila" name="07-JPA-JPQL-Apostila" stamp="1491258337611" updateReferences="true"/>
+</session>
